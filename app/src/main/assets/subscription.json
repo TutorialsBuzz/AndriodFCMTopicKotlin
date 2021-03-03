@@ -1,0 +1,26 @@
+[
+  {
+    "name": "English",
+    "status": false
+  },
+  {
+    "name": "Spanish",
+    "status": false
+  },
+  {
+    "name": "Russian",
+    "status": false
+  },
+  {
+    "name": "Portuguese",
+    "status": false
+  },
+  {
+    "name": "French",
+    "status": false
+  },
+  {
+    "name": "Arabic",
+    "status": false
+  }
+]

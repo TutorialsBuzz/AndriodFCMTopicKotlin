@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FCMDEMO</string>
+
+    <!-- Black -->
+    <string name="subscribed">SUBSCRIBED</string>
+
+    <!-- Red -->
+    <string name="subscribe">SUBSCRIBE</string>
+
+</resources>
